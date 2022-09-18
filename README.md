@@ -1,1 +1,1 @@
-# in-class-ex1
+# In-class exercise 1
